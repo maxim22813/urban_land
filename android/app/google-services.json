@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321806550941",
+    "project_id": "urban-land-cbb8b",
+    "storage_bucket": "urban-land-cbb8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321806550941:android:ce5dc282d2d061163c5174",
+        "android_client_info": {
+          "package_name": "com.example.urban_land"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321806550941-0ipcf4bamrkfnvp7npe09p2slpak6stl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgoFR9OIPem_utQHZ-OnbXq3Q9Yu12-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321806550941-0ipcf4bamrkfnvp7npe09p2slpak6stl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
